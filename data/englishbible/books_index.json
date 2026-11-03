@@ -1,0 +1,464 @@
+[
+  {
+    "bookId": 1,
+    "abbrev": "gn",
+    "nameEn": "Genesis",
+    "chaptersCount": 50,
+    "versesCount": 1533
+  },
+  {
+    "bookId": 2,
+    "abbrev": "ex",
+    "nameEn": "Exodus",
+    "chaptersCount": 40,
+    "versesCount": 1213
+  },
+  {
+    "bookId": 3,
+    "abbrev": "lv",
+    "nameEn": "Leviticus",
+    "chaptersCount": 27,
+    "versesCount": 859
+  },
+  {
+    "bookId": 4,
+    "abbrev": "nm",
+    "nameEn": "Numbers",
+    "chaptersCount": 36,
+    "versesCount": 1288
+  },
+  {
+    "bookId": 5,
+    "abbrev": "dt",
+    "nameEn": "Deuteronomy",
+    "chaptersCount": 34,
+    "versesCount": 959
+  },
+  {
+    "bookId": 6,
+    "abbrev": "js",
+    "nameEn": "Joshua",
+    "chaptersCount": 24,
+    "versesCount": 658
+  },
+  {
+    "bookId": 7,
+    "abbrev": "jz",
+    "nameEn": "Judges",
+    "chaptersCount": 21,
+    "versesCount": 618
+  },
+  {
+    "bookId": 8,
+    "abbrev": "rt",
+    "nameEn": "Ruth",
+    "chaptersCount": 4,
+    "versesCount": 85
+  },
+  {
+    "bookId": 9,
+    "abbrev": "1sm",
+    "nameEn": "1 Samuel",
+    "chaptersCount": 31,
+    "versesCount": 810
+  },
+  {
+    "bookId": 10,
+    "abbrev": "2sm",
+    "nameEn": "2 Samuel",
+    "chaptersCount": 24,
+    "versesCount": 695
+  },
+  {
+    "bookId": 11,
+    "abbrev": "1rs",
+    "nameEn": "1 Kings",
+    "chaptersCount": 22,
+    "versesCount": 816
+  },
+  {
+    "bookId": 12,
+    "abbrev": "2rs",
+    "nameEn": "2 Kings",
+    "chaptersCount": 25,
+    "versesCount": 719
+  },
+  {
+    "bookId": 13,
+    "abbrev": "1cr",
+    "nameEn": "1 Chronicles",
+    "chaptersCount": 29,
+    "versesCount": 942
+  },
+  {
+    "bookId": 14,
+    "abbrev": "2cr",
+    "nameEn": "2 Chronicles",
+    "chaptersCount": 36,
+    "versesCount": 822
+  },
+  {
+    "bookId": 15,
+    "abbrev": "ed",
+    "nameEn": "Ezra",
+    "chaptersCount": 10,
+    "versesCount": 280
+  },
+  {
+    "bookId": 16,
+    "abbrev": "ne",
+    "nameEn": "Nehemiah",
+    "chaptersCount": 13,
+    "versesCount": 406
+  },
+  {
+    "bookId": 17,
+    "abbrev": "et",
+    "nameEn": "Esther",
+    "chaptersCount": 10,
+    "versesCount": 167
+  },
+  {
+    "bookId": 18,
+    "abbrev": "jó",
+    "nameEn": "Job",
+    "chaptersCount": 42,
+    "versesCount": 1070
+  },
+  {
+    "bookId": 19,
+    "abbrev": "sl",
+    "nameEn": "Psalms",
+    "chaptersCount": 150,
+    "versesCount": 2461
+  },
+  {
+    "bookId": 20,
+    "abbrev": "pv",
+    "nameEn": "Proverbs",
+    "chaptersCount": 31,
+    "versesCount": 915
+  },
+  {
+    "bookId": 21,
+    "abbrev": "ec",
+    "nameEn": "Ecclesiastes",
+    "chaptersCount": 12,
+    "versesCount": 222
+  },
+  {
+    "bookId": 22,
+    "abbrev": "ct",
+    "nameEn": "Song of Solomon",
+    "chaptersCount": 8,
+    "versesCount": 117
+  },
+  {
+    "bookId": 23,
+    "abbrev": "is",
+    "nameEn": "Isaiah",
+    "chaptersCount": 66,
+    "versesCount": 1292
+  },
+  {
+    "bookId": 24,
+    "abbrev": "jr",
+    "nameEn": "Jeremiah",
+    "chaptersCount": 52,
+    "versesCount": 1364
+  },
+  {
+    "bookId": 25,
+    "abbrev": "lm",
+    "nameEn": "Lamentations",
+    "chaptersCount": 5,
+    "versesCount": 154
+  },
+  {
+    "bookId": 26,
+    "abbrev": "ez",
+    "nameEn": "Ezekiel",
+    "chaptersCount": 48,
+    "versesCount": 1273
+  },
+  {
+    "bookId": 27,
+    "abbrev": "dn",
+    "nameEn": "Daniel",
+    "chaptersCount": 12,
+    "versesCount": 357
+  },
+  {
+    "bookId": 28,
+    "abbrev": "os",
+    "nameEn": "Hosea",
+    "chaptersCount": 14,
+    "versesCount": 197
+  },
+  {
+    "bookId": 29,
+    "abbrev": "jl",
+    "nameEn": "Joel",
+    "chaptersCount": 3,
+    "versesCount": 73
+  },
+  {
+    "bookId": 30,
+    "abbrev": "am",
+    "nameEn": "Amos",
+    "chaptersCount": 9,
+    "versesCount": 146
+  },
+  {
+    "bookId": 31,
+    "abbrev": "ob",
+    "nameEn": "Obadiah",
+    "chaptersCount": 1,
+    "versesCount": 21
+  },
+  {
+    "bookId": 32,
+    "abbrev": "jn",
+    "nameEn": "Jonah",
+    "chaptersCount": 4,
+    "versesCount": 48
+  },
+  {
+    "bookId": 33,
+    "abbrev": "mq",
+    "nameEn": "Micah",
+    "chaptersCount": 7,
+    "versesCount": 105
+  },
+  {
+    "bookId": 34,
+    "abbrev": "na",
+    "nameEn": "Nahum",
+    "chaptersCount": 3,
+    "versesCount": 47
+  },
+  {
+    "bookId": 35,
+    "abbrev": "hc",
+    "nameEn": "Habakkuk",
+    "chaptersCount": 3,
+    "versesCount": 56
+  },
+  {
+    "bookId": 36,
+    "abbrev": "sf",
+    "nameEn": "Zephaniah",
+    "chaptersCount": 3,
+    "versesCount": 53
+  },
+  {
+    "bookId": 37,
+    "abbrev": "ag",
+    "nameEn": "Haggai",
+    "chaptersCount": 2,
+    "versesCount": 38
+  },
+  {
+    "bookId": 38,
+    "abbrev": "zc",
+    "nameEn": "Zechariah",
+    "chaptersCount": 14,
+    "versesCount": 211
+  },
+  {
+    "bookId": 39,
+    "abbrev": "ml",
+    "nameEn": "Malachi",
+    "chaptersCount": 4,
+    "versesCount": 55
+  },
+  {
+    "bookId": 40,
+    "abbrev": "mt",
+    "nameEn": "Matthew",
+    "chaptersCount": 28,
+    "versesCount": 1071
+  },
+  {
+    "bookId": 41,
+    "abbrev": "mc",
+    "nameEn": "Mark",
+    "chaptersCount": 16,
+    "versesCount": 678
+  },
+  {
+    "bookId": 42,
+    "abbrev": "lc",
+    "nameEn": "Luke",
+    "chaptersCount": 24,
+    "versesCount": 1151
+  },
+  {
+    "bookId": 43,
+    "abbrev": "jo",
+    "nameEn": "John",
+    "chaptersCount": 21,
+    "versesCount": 879
+  },
+  {
+    "bookId": 44,
+    "abbrev": "atos",
+    "nameEn": "Acts",
+    "chaptersCount": 28,
+    "versesCount": 1007
+  },
+  {
+    "bookId": 45,
+    "abbrev": "rm",
+    "nameEn": "Romans",
+    "chaptersCount": 16,
+    "versesCount": 433
+  },
+  {
+    "bookId": 46,
+    "abbrev": "1co",
+    "nameEn": "1 Corinthians",
+    "chaptersCount": 16,
+    "versesCount": 437
+  },
+  {
+    "bookId": 47,
+    "abbrev": "2co",
+    "nameEn": "2 Corinthians",
+    "chaptersCount": 13,
+    "versesCount": 257
+  },
+  {
+    "bookId": 48,
+    "abbrev": "gl",
+    "nameEn": "Galatians",
+    "chaptersCount": 6,
+    "versesCount": 149
+  },
+  {
+    "bookId": 49,
+    "abbrev": "ef",
+    "nameEn": "Ephesians",
+    "chaptersCount": 6,
+    "versesCount": 155
+  },
+  {
+    "bookId": 50,
+    "abbrev": "fp",
+    "nameEn": "Philippians",
+    "chaptersCount": 4,
+    "versesCount": 104
+  },
+  {
+    "bookId": 51,
+    "abbrev": "cl",
+    "nameEn": "Colossians",
+    "chaptersCount": 4,
+    "versesCount": 95
+  },
+  {
+    "bookId": 52,
+    "abbrev": "1ts",
+    "nameEn": "1 Thessalonians",
+    "chaptersCount": 5,
+    "versesCount": 89
+  },
+  {
+    "bookId": 53,
+    "abbrev": "2ts",
+    "nameEn": "2 Thessalonians",
+    "chaptersCount": 3,
+    "versesCount": 47
+  },
+  {
+    "bookId": 54,
+    "abbrev": "1tm",
+    "nameEn": "1 Timothy",
+    "chaptersCount": 6,
+    "versesCount": 113
+  },
+  {
+    "bookId": 55,
+    "abbrev": "2tm",
+    "nameEn": "2 Timothy",
+    "chaptersCount": 4,
+    "versesCount": 83
+  },
+  {
+    "bookId": 56,
+    "abbrev": "tt",
+    "nameEn": "Titus",
+    "chaptersCount": 3,
+    "versesCount": 46
+  },
+  {
+    "bookId": 57,
+    "abbrev": "fm",
+    "nameEn": "Philemon",
+    "chaptersCount": 1,
+    "versesCount": 25
+  },
+  {
+    "bookId": 58,
+    "abbrev": "hb",
+    "nameEn": "Hebrews",
+    "chaptersCount": 13,
+    "versesCount": 303
+  },
+  {
+    "bookId": 59,
+    "abbrev": "tg",
+    "nameEn": "James",
+    "chaptersCount": 5,
+    "versesCount": 108
+  },
+  {
+    "bookId": 60,
+    "abbrev": "1pe",
+    "nameEn": "1 Peter",
+    "chaptersCount": 5,
+    "versesCount": 105
+  },
+  {
+    "bookId": 61,
+    "abbrev": "2pe",
+    "nameEn": "2 Peter",
+    "chaptersCount": 3,
+    "versesCount": 61
+  },
+  {
+    "bookId": 62,
+    "abbrev": "1jo",
+    "nameEn": "1 John",
+    "chaptersCount": 5,
+    "versesCount": 105
+  },
+  {
+    "bookId": 63,
+    "abbrev": "2jo",
+    "nameEn": "2 John",
+    "chaptersCount": 1,
+    "versesCount": 13
+  },
+  {
+    "bookId": 64,
+    "abbrev": "3jo",
+    "nameEn": "3 John",
+    "chaptersCount": 1,
+    "versesCount": 14
+  },
+  {
+    "bookId": 65,
+    "abbrev": "jd",
+    "nameEn": "Jude",
+    "chaptersCount": 1,
+    "versesCount": 25
+  },
+  {
+    "bookId": 66,
+    "abbrev": "ap",
+    "nameEn": "Revelation",
+    "chaptersCount": 22,
+    "versesCount": 404
+  }
+]

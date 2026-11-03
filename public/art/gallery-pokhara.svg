@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <defs>
+    <linearGradient id="pokharaGrad" x1="0" y1="0" x2="800" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#pokharaGrad)" />
+  <circle cx="620" cy="140" r="56" fill="#FDE047" fill-opacity="0.85" />
+  <!-- Annapurna Peaks -->
+  <path d="M0 360L180 190L310 290L470 130L640 280L800 180V420H0V360Z" fill="#E2E8F0" fill-opacity="0.25" />
+  <path d="M0 390L140 280L290 350L490 230L670 340L800 270V450H0V390Z" fill="#1E293B" fill-opacity="0.7" />
+  <!-- Lake Reflection -->
+  <rect y="420" width="800" height="180" fill="#0F172A" fill-opacity="0.85" />
+  <path d="M560 450H680M580 475H660M595 500H645" stroke="#FDE047" stroke-width="4" stroke-linecap="round" stroke-opacity="0.5" />
+  <!-- Campfire & Cross -->
+  <rect x="392" y="250" width="16" height="110" rx="4" fill="#FBBF24" />
+  <rect x="360" y="280" width="80" height="16" rx="4" fill="#FBBF24" />
+</svg>

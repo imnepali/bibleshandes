@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <defs>
+    <linearGradient id="fellowshipBg" x1="0" y1="0" x2="800" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E3A8A" />
+      <stop offset="55%" stop-color="#7F1D1D" />
+      <stop offset="100%" stop-color="#451A03" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#fellowshipBg)" />
+  <circle cx="400" cy="210" r="160" fill="#F59E0B" fill-opacity="0.18" />
+  <!-- Sunbeams through church windows -->
+  <path d="M140 0L320 600H210L60 0H140Z" fill="#FDE68A" fill-opacity="0.08" />
+  <path d="M420 0L620 600H490L310 0H420Z" fill="#FDE68A" fill-opacity="0.08" />
+  <!-- Open Bible & Cross Emblem -->
+  <rect x="388" y="110" width="24" height="150" rx="6" fill="#FBBF24" />
+  <rect x="340" y="150" width="120" height="24" rx="6" fill="#FBBF24" />
+  <path d="M250 340C305 315 355 322 400 348C445 322 495 315 550 340V415C495 390 445 397 400 423C355 397 305 390 250 415V340Z" fill="#FEF3C7" stroke="#F59E0B" stroke-width="4" />
+  <!-- Community worship figures -->
+  <circle cx="220" cy="485" r="28" fill="#FDE68A" fill-opacity="0.8" />
+  <path d="M170 580C170 535 270 535 270 580" fill="#991B1B" />
+  <circle cx="400" cy="470" r="32" fill="#FDE68A" fill-opacity="0.9" />
+  <path d="M340 580C340 525 460 525 460 580" fill="#B45309" />
+  <circle cx="580" cy="485" r="28" fill="#FDE68A" fill-opacity="0.8" />
+  <path d="M530 580C530 535 630 535 630 580" fill="#1D4ED8" />
+</svg>

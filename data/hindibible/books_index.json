@@ -1,0 +1,596 @@
+[
+  {
+    "bookId": 1,
+    "usfmId": "GEN",
+    "nameHi": "उत्पत्ति",
+    "fullTitleHi": "उत्पत्ति",
+    "chaptersCount": 50,
+    "versesCount": 1533,
+    "hasIntro": true
+  },
+  {
+    "bookId": 2,
+    "usfmId": "EXO",
+    "nameHi": "निर्गमन",
+    "fullTitleHi": "निर्गमन",
+    "chaptersCount": 40,
+    "versesCount": 1213,
+    "hasIntro": true
+  },
+  {
+    "bookId": 3,
+    "usfmId": "LEV",
+    "nameHi": "लैव्यव्यवस्था",
+    "fullTitleHi": "लैव्यव्यवस्था",
+    "chaptersCount": 27,
+    "versesCount": 859,
+    "hasIntro": true
+  },
+  {
+    "bookId": 4,
+    "usfmId": "NUM",
+    "nameHi": "गिनती",
+    "fullTitleHi": "गिनती",
+    "chaptersCount": 36,
+    "versesCount": 1288,
+    "hasIntro": true
+  },
+  {
+    "bookId": 5,
+    "usfmId": "DEU",
+    "nameHi": "व्यवस्थाविवरण",
+    "fullTitleHi": "व्यवस्थाविवरण",
+    "chaptersCount": 34,
+    "versesCount": 959,
+    "hasIntro": true
+  },
+  {
+    "bookId": 6,
+    "usfmId": "JOS",
+    "nameHi": "यहोशू",
+    "fullTitleHi": "यहोशू",
+    "chaptersCount": 24,
+    "versesCount": 658,
+    "hasIntro": true
+  },
+  {
+    "bookId": 7,
+    "usfmId": "JDG",
+    "nameHi": "न्यायियों",
+    "fullTitleHi": "न्यायियों",
+    "chaptersCount": 21,
+    "versesCount": 618,
+    "hasIntro": true
+  },
+  {
+    "bookId": 8,
+    "usfmId": "RUT",
+    "nameHi": "रूत",
+    "fullTitleHi": "रूत",
+    "chaptersCount": 4,
+    "versesCount": 85,
+    "hasIntro": true
+  },
+  {
+    "bookId": 9,
+    "usfmId": "1SA",
+    "nameHi": "1 शमूएल",
+    "fullTitleHi": "शमूएल की पहली पुस्तक",
+    "chaptersCount": 31,
+    "versesCount": 810,
+    "hasIntro": true
+  },
+  {
+    "bookId": 10,
+    "usfmId": "2SA",
+    "nameHi": "2 शमूएल",
+    "fullTitleHi": "शमूएल की दूसरी पुस्तक",
+    "chaptersCount": 24,
+    "versesCount": 695,
+    "hasIntro": true
+  },
+  {
+    "bookId": 11,
+    "usfmId": "1KI",
+    "nameHi": "1 राजाओं",
+    "fullTitleHi": "राजाओं की पहली पुस्तक",
+    "chaptersCount": 22,
+    "versesCount": 816,
+    "hasIntro": true
+  },
+  {
+    "bookId": 12,
+    "usfmId": "2KI",
+    "nameHi": "2 राजाओं",
+    "fullTitleHi": "राजाओं की दूसरी पुस्तक",
+    "chaptersCount": 25,
+    "versesCount": 719,
+    "hasIntro": true
+  },
+  {
+    "bookId": 13,
+    "usfmId": "1CH",
+    "nameHi": "1 इतिहास",
+    "fullTitleHi": "इतिहास की पहली पुस्तक",
+    "chaptersCount": 29,
+    "versesCount": 942,
+    "hasIntro": true
+  },
+  {
+    "bookId": 14,
+    "usfmId": "2CH",
+    "nameHi": "2 इतिहास",
+    "fullTitleHi": "इतिहास की दूसरी पुस्तक",
+    "chaptersCount": 36,
+    "versesCount": 822,
+    "hasIntro": true
+  },
+  {
+    "bookId": 15,
+    "usfmId": "EZR",
+    "nameHi": "एज्रा",
+    "fullTitleHi": "एज्रा",
+    "chaptersCount": 10,
+    "versesCount": 280,
+    "hasIntro": true
+  },
+  {
+    "bookId": 16,
+    "usfmId": "NEH",
+    "nameHi": "नहेम्याह",
+    "fullTitleHi": "नहेम्याह",
+    "chaptersCount": 13,
+    "versesCount": 406,
+    "hasIntro": true
+  },
+  {
+    "bookId": 17,
+    "usfmId": "EST",
+    "nameHi": "एस्तेर",
+    "fullTitleHi": "एस्तेर",
+    "chaptersCount": 10,
+    "versesCount": 167,
+    "hasIntro": true
+  },
+  {
+    "bookId": 18,
+    "usfmId": "JOB",
+    "nameHi": "अय्यूब",
+    "fullTitleHi": "अय्यूब",
+    "chaptersCount": 42,
+    "versesCount": 1070,
+    "hasIntro": true
+  },
+  {
+    "bookId": 19,
+    "usfmId": "PSA",
+    "nameHi": "भजन संहिता",
+    "fullTitleHi": "भजन संहिता",
+    "chaptersCount": 150,
+    "versesCount": 2461,
+    "hasIntro": true
+  },
+  {
+    "bookId": 20,
+    "usfmId": "PRO",
+    "nameHi": "नीतिवचन",
+    "fullTitleHi": "नीतिवचन",
+    "chaptersCount": 31,
+    "versesCount": 915,
+    "hasIntro": true
+  },
+  {
+    "bookId": 21,
+    "usfmId": "ECC",
+    "nameHi": "सभोपदेशक",
+    "fullTitleHi": "सभोपदेशक",
+    "chaptersCount": 12,
+    "versesCount": 222,
+    "hasIntro": true
+  },
+  {
+    "bookId": 22,
+    "usfmId": "SNG",
+    "nameHi": "श्रेष्ठगीत",
+    "fullTitleHi": "श्रेष्ठगीत",
+    "chaptersCount": 8,
+    "versesCount": 117,
+    "hasIntro": true
+  },
+  {
+    "bookId": 23,
+    "usfmId": "ISA",
+    "nameHi": "यशायाह",
+    "fullTitleHi": "यशायाह",
+    "chaptersCount": 66,
+    "versesCount": 1292,
+    "hasIntro": true
+  },
+  {
+    "bookId": 24,
+    "usfmId": "JER",
+    "nameHi": "यिर्मयाह",
+    "fullTitleHi": "यिर्मयाह",
+    "chaptersCount": 52,
+    "versesCount": 1364,
+    "hasIntro": true
+  },
+  {
+    "bookId": 25,
+    "usfmId": "LAM",
+    "nameHi": "विलापगीत",
+    "fullTitleHi": "विलापगीत",
+    "chaptersCount": 5,
+    "versesCount": 154,
+    "hasIntro": true
+  },
+  {
+    "bookId": 26,
+    "usfmId": "EZK",
+    "nameHi": "यहेजकेल",
+    "fullTitleHi": "यहेजकेल",
+    "chaptersCount": 48,
+    "versesCount": 1273,
+    "hasIntro": true
+  },
+  {
+    "bookId": 27,
+    "usfmId": "DAN",
+    "nameHi": "दानिय्येल",
+    "fullTitleHi": "दानिय्येल",
+    "chaptersCount": 12,
+    "versesCount": 357,
+    "hasIntro": true
+  },
+  {
+    "bookId": 28,
+    "usfmId": "HOS",
+    "nameHi": "होशे",
+    "fullTitleHi": "होशे",
+    "chaptersCount": 14,
+    "versesCount": 197,
+    "hasIntro": true
+  },
+  {
+    "bookId": 29,
+    "usfmId": "JOL",
+    "nameHi": "योएल",
+    "fullTitleHi": "योएल",
+    "chaptersCount": 3,
+    "versesCount": 73,
+    "hasIntro": true
+  },
+  {
+    "bookId": 30,
+    "usfmId": "AMO",
+    "nameHi": "आमोस",
+    "fullTitleHi": "आमोस",
+    "chaptersCount": 9,
+    "versesCount": 146,
+    "hasIntro": true
+  },
+  {
+    "bookId": 31,
+    "usfmId": "OBA",
+    "nameHi": "ओबद्याह",
+    "fullTitleHi": "ओबद्याह",
+    "chaptersCount": 1,
+    "versesCount": 21,
+    "hasIntro": true
+  },
+  {
+    "bookId": 32,
+    "usfmId": "JON",
+    "nameHi": "योना",
+    "fullTitleHi": "योना",
+    "chaptersCount": 4,
+    "versesCount": 48,
+    "hasIntro": true
+  },
+  {
+    "bookId": 33,
+    "usfmId": "MIC",
+    "nameHi": "मीका",
+    "fullTitleHi": "मीका",
+    "chaptersCount": 7,
+    "versesCount": 105,
+    "hasIntro": true
+  },
+  {
+    "bookId": 34,
+    "usfmId": "NAM",
+    "nameHi": "नहूम",
+    "fullTitleHi": "नहूम",
+    "chaptersCount": 3,
+    "versesCount": 47,
+    "hasIntro": true
+  },
+  {
+    "bookId": 35,
+    "usfmId": "HAB",
+    "nameHi": "हबक्कूक",
+    "fullTitleHi": "हबक्कूक",
+    "chaptersCount": 3,
+    "versesCount": 56,
+    "hasIntro": true
+  },
+  {
+    "bookId": 36,
+    "usfmId": "ZEP",
+    "nameHi": "सपन्याह",
+    "fullTitleHi": "सपन्याह",
+    "chaptersCount": 3,
+    "versesCount": 53,
+    "hasIntro": true
+  },
+  {
+    "bookId": 37,
+    "usfmId": "HAG",
+    "nameHi": "हाग्गै",
+    "fullTitleHi": "हाग्गै",
+    "chaptersCount": 2,
+    "versesCount": 38,
+    "hasIntro": true
+  },
+  {
+    "bookId": 38,
+    "usfmId": "ZEC",
+    "nameHi": "जकर्याह",
+    "fullTitleHi": "जकर्याह",
+    "chaptersCount": 14,
+    "versesCount": 211,
+    "hasIntro": true
+  },
+  {
+    "bookId": 39,
+    "usfmId": "MAL",
+    "nameHi": "मलाकी",
+    "fullTitleHi": "मलाकी",
+    "chaptersCount": 4,
+    "versesCount": 55,
+    "hasIntro": true
+  },
+  {
+    "bookId": 40,
+    "usfmId": "MAT",
+    "nameHi": "मत्ती",
+    "fullTitleHi": "मत्ती रचित सुसमाचार",
+    "chaptersCount": 28,
+    "versesCount": 1071,
+    "hasIntro": true
+  },
+  {
+    "bookId": 41,
+    "usfmId": "MRK",
+    "nameHi": "मरकुस",
+    "fullTitleHi": "मरकुस रचित सुसमाचार",
+    "chaptersCount": 16,
+    "versesCount": 678,
+    "hasIntro": true
+  },
+  {
+    "bookId": 42,
+    "usfmId": "LUK",
+    "nameHi": "लूका",
+    "fullTitleHi": "लूका रचित सुसमाचार",
+    "chaptersCount": 24,
+    "versesCount": 1151,
+    "hasIntro": true
+  },
+  {
+    "bookId": 43,
+    "usfmId": "JHN",
+    "nameHi": "यूहन्ना",
+    "fullTitleHi": "यूहन्ना रचित सुसमाचार",
+    "chaptersCount": 21,
+    "versesCount": 879,
+    "hasIntro": true
+  },
+  {
+    "bookId": 44,
+    "usfmId": "ACT",
+    "nameHi": "प्रेरितों के काम",
+    "fullTitleHi": "प्रेरितों के काम",
+    "chaptersCount": 28,
+    "versesCount": 1007,
+    "hasIntro": true
+  },
+  {
+    "bookId": 45,
+    "usfmId": "ROM",
+    "nameHi": "रोमियों",
+    "fullTitleHi": "रोमियों के नाम पौलुस प्रेरित की पत्री",
+    "chaptersCount": 16,
+    "versesCount": 433,
+    "hasIntro": true
+  },
+  {
+    "bookId": 46,
+    "usfmId": "1CO",
+    "nameHi": "1 कुरिन्थियों",
+    "fullTitleHi": "कुरिन्थियों के नाम पौलुस प्रेरित की पहली पत्री",
+    "chaptersCount": 16,
+    "versesCount": 437,
+    "hasIntro": true
+  },
+  {
+    "bookId": 47,
+    "usfmId": "2CO",
+    "nameHi": "2 कुरिन्थियों",
+    "fullTitleHi": "कुरिन्थियों के नाम पौलुस प्रेरित की दूसरी पत्री",
+    "chaptersCount": 13,
+    "versesCount": 257,
+    "hasIntro": true
+  },
+  {
+    "bookId": 48,
+    "usfmId": "GAL",
+    "nameHi": "गलातियों",
+    "fullTitleHi": "गलातियों के नाम पौलुस प्रेरित की पत्री",
+    "chaptersCount": 6,
+    "versesCount": 149,
+    "hasIntro": true
+  },
+  {
+    "bookId": 49,
+    "usfmId": "EPH",
+    "nameHi": "इफिसियों",
+    "fullTitleHi": "इफिसियों के नाम पौलुस प्रेरित की पत्री",
+    "chaptersCount": 6,
+    "versesCount": 155,
+    "hasIntro": true
+  },
+  {
+    "bookId": 50,
+    "usfmId": "PHP",
+    "nameHi": "फिलिप्पियों",
+    "fullTitleHi": "फिलिप्पियों के नाम पौलुस प्रेरित की पत्री",
+    "chaptersCount": 4,
+    "versesCount": 104,
+    "hasIntro": true
+  },
+  {
+    "bookId": 51,
+    "usfmId": "COL",
+    "nameHi": "कुलुस्सियों",
+    "fullTitleHi": "कुलुस्सियों के नाम पौलुस प्रेरित की पत्री",
+    "chaptersCount": 4,
+    "versesCount": 95,
+    "hasIntro": true
+  },
+  {
+    "bookId": 52,
+    "usfmId": "1TH",
+    "nameHi": "1 थिस्सलुनीकियों",
+    "fullTitleHi": "थिस्सलुनीकियों के नाम पौलुस प्रेरित की पहली पत्री",
+    "chaptersCount": 5,
+    "versesCount": 89,
+    "hasIntro": true
+  },
+  {
+    "bookId": 53,
+    "usfmId": "2TH",
+    "nameHi": "2 थिस्सलुनीकियों",
+    "fullTitleHi": "थिस्सलुनीकियों के नाम पौलुस प्रेरित की दूसरी पत्री",
+    "chaptersCount": 3,
+    "versesCount": 47,
+    "hasIntro": true
+  },
+  {
+    "bookId": 54,
+    "usfmId": "1TI",
+    "nameHi": "1 तीमुथियुस",
+    "fullTitleHi": "तीमुथियुस के नाम प्रेरित पौलुस की पहली पत्री",
+    "chaptersCount": 6,
+    "versesCount": 113,
+    "hasIntro": true
+  },
+  {
+    "bookId": 55,
+    "usfmId": "2TI",
+    "nameHi": "2 तीमुथियुस",
+    "fullTitleHi": "तीमुथियुस के नाम प्रेरित पौलुस की दूसरी पत्री",
+    "chaptersCount": 4,
+    "versesCount": 83,
+    "hasIntro": true
+  },
+  {
+    "bookId": 56,
+    "usfmId": "TIT",
+    "nameHi": "तीतुस",
+    "fullTitleHi": "तीतुस के नाम प्रेरित पौलुस की पत्री",
+    "chaptersCount": 3,
+    "versesCount": 46,
+    "hasIntro": true
+  },
+  {
+    "bookId": 57,
+    "usfmId": "PHM",
+    "nameHi": "फिलेमोन",
+    "fullTitleHi": "फिलेमोन के नाम प्रेरित पौलुस की पत्री",
+    "chaptersCount": 1,
+    "versesCount": 25,
+    "hasIntro": true
+  },
+  {
+    "bookId": 58,
+    "usfmId": "HEB",
+    "nameHi": "इब्रानियों",
+    "fullTitleHi": "इब्रानियों के नाम पत्री",
+    "chaptersCount": 13,
+    "versesCount": 303,
+    "hasIntro": true
+  },
+  {
+    "bookId": 59,
+    "usfmId": "JAS",
+    "nameHi": "याकूब",
+    "fullTitleHi": "याकूब की पत्री",
+    "chaptersCount": 5,
+    "versesCount": 108,
+    "hasIntro": true
+  },
+  {
+    "bookId": 60,
+    "usfmId": "1PE",
+    "nameHi": "1 पतरस",
+    "fullTitleHi": "पतरस की पहली पत्री",
+    "chaptersCount": 5,
+    "versesCount": 105,
+    "hasIntro": true
+  },
+  {
+    "bookId": 61,
+    "usfmId": "2PE",
+    "nameHi": "2 पतरस",
+    "fullTitleHi": "पतरस की दूसरी पत्री",
+    "chaptersCount": 3,
+    "versesCount": 61,
+    "hasIntro": true
+  },
+  {
+    "bookId": 62,
+    "usfmId": "1JN",
+    "nameHi": "1 यूहन्ना",
+    "fullTitleHi": "यूहन्ना की पहली पत्री",
+    "chaptersCount": 5,
+    "versesCount": 105,
+    "hasIntro": true
+  },
+  {
+    "bookId": 63,
+    "usfmId": "2JN",
+    "nameHi": "2 यूहन्ना",
+    "fullTitleHi": "यूहन्ना की दूसरी पत्री",
+    "chaptersCount": 1,
+    "versesCount": 13,
+    "hasIntro": true
+  },
+  {
+    "bookId": 64,
+    "usfmId": "3JN",
+    "nameHi": "3 यूहन्ना",
+    "fullTitleHi": "यूहन्ना की तीसरी पत्री",
+    "chaptersCount": 1,
+    "versesCount": 15,
+    "hasIntro": true
+  },
+  {
+    "bookId": 65,
+    "usfmId": "JUD",
+    "nameHi": "यहूदा",
+    "fullTitleHi": "यहूदा की पत्री",
+    "chaptersCount": 1,
+    "versesCount": 25,
+    "hasIntro": true
+  },
+  {
+    "bookId": 66,
+    "usfmId": "REV",
+    "nameHi": "प्रकाशितवाक्य",
+    "fullTitleHi": "यूहन्ना का प्रकाशितवाक्य",
+    "chaptersCount": 22,
+    "versesCount": 405,
+    "hasIntro": true
+  }
+]

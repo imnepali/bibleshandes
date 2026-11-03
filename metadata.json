@@ -1,0 +1,6 @@
+{
+  "name": "Susamachar – Christian App (सुसमाचार)",
+  "description": "Bilingual Nepali & English Christian platform featuring Holy Bible, BS/AD Nepali Calendar & Date Converter, Christian News Portal, FM Radio, Prayer Wall, Gold/Silver Rates, and Multi-Admin CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

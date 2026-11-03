@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <defs>
+    <linearGradient id="bibleGrad" x1="0" y1="0" x2="800" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#451A03" />
+      <stop offset="50%" stop-color="#7F1D1D" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bibleGrad)" />
+  <circle cx="400" cy="300" r="220" fill="#F59E0B" fill-opacity="0.15" />
+  <!-- Open Holy Bible -->
+  <path d="M160 200C240 165 325 175 400 215C475 175 560 165 640 200V430C560 395 475 405 400 445C325 405 240 395 160 430V200Z" fill="#FFFBEB" stroke="#D97706" stroke-width="6" />
+  <line x1="400" y1="215" x2="400" y2="445" stroke="#D97706" stroke-width="5" />
+  <!-- Scripture lines -->
+  <path d="M205 250H355M205 285H355M205 320H355M205 355H315" stroke="#78350F" stroke-width="6" stroke-linecap="round" stroke-opacity="0.55" />
+  <path d="M445 250H595M445 285H595M445 320H595M445 355H555" stroke="#991B1B" stroke-width="6" stroke-linecap="round" stroke-opacity="0.65" />
+  <!-- Golden Bookmark Ribbon -->
+  <path d="M400 445V525L425 505L450 525V435" fill="#DC2626" />
+</svg>

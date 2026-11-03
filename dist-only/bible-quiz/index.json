@@ -1,0 +1,1992 @@
+{
+  "totalQuestions": 11982,
+  "totalBooks": 66,
+  "difficultyCounts": {
+    "basic": 4773,
+    "intermediate": 4785,
+    "advanced": 2424
+  },
+  "books": [
+    {
+      "file": "bible_quanes_01gen.json",
+      "book": "Genesis",
+      "count": 510,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "difficulty": {
+        "basic": 207,
+        "intermediate": 202,
+        "advanced": 101
+      }
+    },
+    {
+      "file": "bible_quanes_02exo.json",
+      "book": "Exodus",
+      "count": 406,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "difficulty": {
+        "basic": 162,
+        "intermediate": 164,
+        "advanced": 80
+      }
+    },
+    {
+      "file": "bible_quanes_03lev.json",
+      "book": "Leviticus",
+      "count": 270,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "difficulty": {
+        "basic": 108,
+        "intermediate": 108,
+        "advanced": 54
+      }
+    },
+    {
+      "file": "bible_quanes_04num.json",
+      "book": "Numbers",
+      "count": 360,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "difficulty": {
+        "basic": 144,
+        "intermediate": 144,
+        "advanced": 72
+      }
+    },
+    {
+      "file": "bible_quanes_05deu.json",
+      "book": "Deuteronomy",
+      "count": 340,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "difficulty": {
+        "basic": 136,
+        "intermediate": 136,
+        "advanced": 68
+      }
+    },
+    {
+      "file": "bible_quanes_06jos.json",
+      "book": "Joshua",
+      "count": 240,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "difficulty": {
+        "basic": 96,
+        "intermediate": 96,
+        "advanced": 48
+      }
+    },
+    {
+      "file": "bible_quanes_07jdg.json",
+      "book": "Judges",
+      "count": 210,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "difficulty": {
+        "basic": 84,
+        "intermediate": 84,
+        "advanced": 42
+      }
+    },
+    {
+      "file": "bible_quanes_08rut.json",
+      "book": "Ruth",
+      "count": 40,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "difficulty": {
+        "basic": 16,
+        "intermediate": 16,
+        "advanced": 8
+      }
+    },
+    {
+      "file": "bible_quanes_091sa.json",
+      "book": "1 Samuel",
+      "count": 310,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "difficulty": {
+        "basic": 124,
+        "intermediate": 124,
+        "advanced": 62
+      }
+    },
+    {
+      "file": "bible_quanes_102sa.json",
+      "book": "2 Samuel",
+      "count": 240,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "difficulty": {
+        "basic": 96,
+        "intermediate": 96,
+        "advanced": 48
+      }
+    },
+    {
+      "file": "bible_quanes_111ki.json",
+      "book": "1 Kings",
+      "count": 220,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "difficulty": {
+        "basic": 88,
+        "intermediate": 88,
+        "advanced": 44
+      }
+    },
+    {
+      "file": "bible_quanes_122ki.json",
+      "book": "2 Kings",
+      "count": 250,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "difficulty": {
+        "basic": 100,
+        "intermediate": 100,
+        "advanced": 50
+      }
+    },
+    {
+      "file": "bible_quanes_131ch.json",
+      "book": "1 Chronicles",
+      "count": 290,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "difficulty": {
+        "basic": 116,
+        "intermediate": 116,
+        "advanced": 58
+      }
+    },
+    {
+      "file": "bible_quanes_142ch.json",
+      "book": "2 Chronicles",
+      "count": 360,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "difficulty": {
+        "basic": 144,
+        "intermediate": 144,
+        "advanced": 72
+      }
+    },
+    {
+      "file": "bible_quanes_15ezr.json",
+      "book": "Ezra",
+      "count": 100,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "difficulty": {
+        "basic": 40,
+        "intermediate": 40,
+        "advanced": 20
+      }
+    },
+    {
+      "file": "bible_quanes_16neh.json",
+      "book": "Nehemiah",
+      "count": 130,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "difficulty": {
+        "basic": 52,
+        "intermediate": 52,
+        "advanced": 26
+      }
+    },
+    {
+      "file": "bible_quanes_17est.json",
+      "book": "Esther",
+      "count": 100,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "difficulty": {
+        "basic": 40,
+        "intermediate": 40,
+        "advanced": 20
+      }
+    },
+    {
+      "file": "bible_quanes_18job.json",
+      "book": "Job",
+      "count": 420,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "difficulty": {
+        "basic": 168,
+        "intermediate": 168,
+        "advanced": 84
+      }
+    },
+    {
+      "file": "bible_quanes_19psa.json",
+      "book": "Psalms",
+      "count": 1555,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "difficulty": {
+        "basic": 604,
+        "intermediate": 620,
+        "advanced": 331
+      }
+    },
+    {
+      "file": "bible_quanes_20pro.json",
+      "book": "Proverbs",
+      "count": 310,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "difficulty": {
+        "basic": 124,
+        "intermediate": 124,
+        "advanced": 62
+      }
+    },
+    {
+      "file": "bible_quanes_21ecc.json",
+      "book": "Ecclesiastes",
+      "count": 120,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "difficulty": {
+        "basic": 48,
+        "intermediate": 48,
+        "advanced": 24
+      }
+    },
+    {
+      "file": "bible_quanes_22sng.json",
+      "book": "Song of Solomon",
+      "count": 80,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "difficulty": {
+        "basic": 32,
+        "intermediate": 32,
+        "advanced": 16
+      }
+    },
+    {
+      "file": "bible_quanes_23isa.json",
+      "book": "Isaiah",
+      "count": 660,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "difficulty": {
+        "basic": 264,
+        "intermediate": 264,
+        "advanced": 132
+      }
+    },
+    {
+      "file": "bible_quanes_24jer.json",
+      "book": "Jeremiah",
+      "count": 520,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "difficulty": {
+        "basic": 208,
+        "intermediate": 208,
+        "advanced": 104
+      }
+    },
+    {
+      "file": "bible_quanes_25lam.json",
+      "book": "Lamentations",
+      "count": 50,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "difficulty": {
+        "basic": 20,
+        "intermediate": 20,
+        "advanced": 10
+      }
+    },
+    {
+      "file": "bible_quanes_26ezk.json",
+      "book": "Ezekiel",
+      "count": 480,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "difficulty": {
+        "basic": 192,
+        "intermediate": 192,
+        "advanced": 96
+      }
+    },
+    {
+      "file": "bible_quanes_27dan.json",
+      "book": "Daniel",
+      "count": 120,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "difficulty": {
+        "basic": 48,
+        "intermediate": 48,
+        "advanced": 24
+      }
+    },
+    {
+      "file": "bible_quanes_28hos.json",
+      "book": "Hosea",
+      "count": 140,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "difficulty": {
+        "basic": 56,
+        "intermediate": 56,
+        "advanced": 28
+      }
+    },
+    {
+      "file": "bible_quanes_29jol.json",
+      "book": "Joel",
+      "count": 30,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "difficulty": {
+        "basic": 12,
+        "intermediate": 12,
+        "advanced": 6
+      }
+    },
+    {
+      "file": "bible_quanes_30amo.json",
+      "book": "Amos",
+      "count": 90,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "difficulty": {
+        "basic": 36,
+        "intermediate": 36,
+        "advanced": 18
+      }
+    },
+    {
+      "file": "bible_quanes_31oba.json",
+      "book": "Obadiah",
+      "count": 20,
+      "chapters": [
+        1
+      ],
+      "difficulty": {
+        "basic": 7,
+        "intermediate": 6,
+        "advanced": 7
+      }
+    },
+    {
+      "file": "bible_quanes_32jon.json",
+      "book": "Jonah",
+      "count": 40,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "difficulty": {
+        "basic": 16,
+        "intermediate": 16,
+        "advanced": 8
+      }
+    },
+    {
+      "file": "bible_quanes_33mic.json",
+      "book": "Micah",
+      "count": 70,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "difficulty": {
+        "basic": 28,
+        "intermediate": 28,
+        "advanced": 14
+      }
+    },
+    {
+      "file": "bible_quanes_34nam.json",
+      "book": "Nahum",
+      "count": 30,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "difficulty": {
+        "basic": 12,
+        "intermediate": 12,
+        "advanced": 6
+      }
+    },
+    {
+      "file": "bible_quanes_35hab.json",
+      "book": "Habakkuk",
+      "count": 30,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "difficulty": {
+        "basic": 12,
+        "intermediate": 12,
+        "advanced": 6
+      }
+    },
+    {
+      "file": "bible_quanes_36zep.json",
+      "book": "Zephaniah",
+      "count": 30,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "difficulty": {
+        "basic": 12,
+        "intermediate": 12,
+        "advanced": 6
+      }
+    },
+    {
+      "file": "bible_quanes_37hag.json",
+      "book": "Haggai",
+      "count": 20,
+      "chapters": [
+        1,
+        2
+      ],
+      "difficulty": {
+        "basic": 8,
+        "intermediate": 8,
+        "advanced": 4
+      }
+    },
+    {
+      "file": "bible_quanes_38zec.json",
+      "book": "Zechariah",
+      "count": 140,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "difficulty": {
+        "basic": 56,
+        "intermediate": 56,
+        "advanced": 28
+      }
+    },
+    {
+      "file": "bible_quanes_39mal.json",
+      "book": "Malachi",
+      "count": 40,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "difficulty": {
+        "basic": 16,
+        "intermediate": 16,
+        "advanced": 8
+      }
+    },
+    {
+      "file": "bible_quanes_40mat.json",
+      "book": "Matthew",
+      "count": 280,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "difficulty": {
+        "basic": 112,
+        "intermediate": 112,
+        "advanced": 56
+      }
+    },
+    {
+      "file": "bible_quanes_41mrk.json",
+      "book": "Mark",
+      "count": 160,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "difficulty": {
+        "basic": 64,
+        "intermediate": 64,
+        "advanced": 32
+      }
+    },
+    {
+      "file": "bible_quanes_42luk.json",
+      "book": "Luke",
+      "count": 240,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "difficulty": {
+        "basic": 96,
+        "intermediate": 96,
+        "advanced": 48
+      }
+    },
+    {
+      "file": "bible_quanes_43jhn.json",
+      "book": "John",
+      "count": 210,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "difficulty": {
+        "basic": 84,
+        "intermediate": 84,
+        "advanced": 42
+      }
+    },
+    {
+      "file": "bible_quanes_44act.json",
+      "book": "Acts",
+      "count": 280,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "difficulty": {
+        "basic": 112,
+        "intermediate": 112,
+        "advanced": 56
+      }
+    },
+    {
+      "file": "bible_quanes_45rom.json",
+      "book": "Romans",
+      "count": 160,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "difficulty": {
+        "basic": 64,
+        "intermediate": 64,
+        "advanced": 32
+      }
+    },
+    {
+      "file": "bible_quanes_461co.json",
+      "book": "1 Corinthians",
+      "count": 160,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "difficulty": {
+        "basic": 64,
+        "intermediate": 64,
+        "advanced": 32
+      }
+    },
+    {
+      "file": "bible_quanes_472co.json",
+      "book": "2 Corinthians",
+      "count": 130,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "difficulty": {
+        "basic": 52,
+        "intermediate": 52,
+        "advanced": 26
+      }
+    },
+    {
+      "file": "bible_quanes_48gal.json",
+      "book": "Galatians",
+      "count": 60,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "difficulty": {
+        "basic": 24,
+        "intermediate": 24,
+        "advanced": 12
+      }
+    },
+    {
+      "file": "bible_quanes_49eph.json",
+      "book": "Ephesians",
+      "count": 60,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "difficulty": {
+        "basic": 24,
+        "intermediate": 24,
+        "advanced": 12
+      }
+    },
+    {
+      "file": "bible_quanes_50php.json",
+      "book": "Philippians",
+      "count": 40,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "difficulty": {
+        "basic": 16,
+        "intermediate": 16,
+        "advanced": 8
+      }
+    },
+    {
+      "file": "bible_quanes_51col.json",
+      "book": "Colossians",
+      "count": 40,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "difficulty": {
+        "basic": 16,
+        "intermediate": 16,
+        "advanced": 8
+      }
+    },
+    {
+      "file": "bible_quanes_521th.json",
+      "book": "1 Thessalonians",
+      "count": 50,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "difficulty": {
+        "basic": 20,
+        "intermediate": 20,
+        "advanced": 10
+      }
+    },
+    {
+      "file": "bible_quanes_532th.json",
+      "book": "2 Thessalonians",
+      "count": 30,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "difficulty": {
+        "basic": 12,
+        "intermediate": 12,
+        "advanced": 6
+      }
+    },
+    {
+      "file": "bible_quanes_541ti.json",
+      "book": "1 Timothy",
+      "count": 60,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "difficulty": {
+        "basic": 24,
+        "intermediate": 24,
+        "advanced": 12
+      }
+    },
+    {
+      "file": "bible_quanes_552ti.json",
+      "book": "2 Timothy",
+      "count": 40,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "difficulty": {
+        "basic": 16,
+        "intermediate": 16,
+        "advanced": 8
+      }
+    },
+    {
+      "file": "bible_quanes_56tit.json",
+      "book": "Titus",
+      "count": 30,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "difficulty": {
+        "basic": 12,
+        "intermediate": 12,
+        "advanced": 6
+      }
+    },
+    {
+      "file": "bible_quanes_57phm.json",
+      "book": "Philemon",
+      "count": 15,
+      "chapters": [
+        1
+      ],
+      "difficulty": {
+        "basic": 5,
+        "intermediate": 5,
+        "advanced": 5
+      }
+    },
+    {
+      "file": "bible_quanes_58heb.json",
+      "book": "Hebrews",
+      "count": 130,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "difficulty": {
+        "basic": 52,
+        "intermediate": 52,
+        "advanced": 26
+      }
+    },
+    {
+      "file": "bible_quanes_59jas.json",
+      "book": "James",
+      "count": 50,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "difficulty": {
+        "basic": 20,
+        "intermediate": 20,
+        "advanced": 10
+      }
+    },
+    {
+      "file": "bible_quanes_601pe.json",
+      "book": "1 Peter",
+      "count": 50,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "difficulty": {
+        "basic": 20,
+        "intermediate": 20,
+        "advanced": 10
+      }
+    },
+    {
+      "file": "bible_quanes_612pe.json",
+      "book": "2 Peter",
+      "count": 30,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "difficulty": {
+        "basic": 12,
+        "intermediate": 12,
+        "advanced": 6
+      }
+    },
+    {
+      "file": "bible_quanes_621jn.json",
+      "book": "1 John",
+      "count": 50,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "difficulty": {
+        "basic": 20,
+        "intermediate": 20,
+        "advanced": 10
+      }
+    },
+    {
+      "file": "bible_quanes_632jn.json",
+      "book": "2 John",
+      "count": 12,
+      "chapters": [
+        1
+      ],
+      "difficulty": {
+        "basic": 4,
+        "intermediate": 4,
+        "advanced": 4
+      }
+    },
+    {
+      "file": "bible_quanes_643jn.json",
+      "book": "3 John",
+      "count": 12,
+      "chapters": [
+        1
+      ],
+      "difficulty": {
+        "basic": 4,
+        "intermediate": 4,
+        "advanced": 4
+      }
+    },
+    {
+      "file": "bible_quanes_65jud.json",
+      "book": "Jude",
+      "count": 12,
+      "chapters": [
+        1
+      ],
+      "difficulty": {
+        "basic": 4,
+        "intermediate": 4,
+        "advanced": 4
+      }
+    },
+    {
+      "file": "bible_quanes_66rev.json",
+      "book": "Revelation",
+      "count": 220,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "difficulty": {
+        "basic": 88,
+        "intermediate": 88,
+        "advanced": 44
+      }
+    }
+  ]
+}

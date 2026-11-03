@@ -1,0 +1,805 @@
+{
+  "news": [],
+  "prayers": [
+    {
+      "id": 1,
+      "requesterName": "सन्तोष श्रेष्ठ (Santosh Shrestha)",
+      "location": "Pokhara, Kaski",
+      "category": "healing",
+      "titleEn": "Complete Recovery After Kidney Surgery for My Mother",
+      "titleNe": "आमाको मिर्गौला शल्यक्रियापछिको पूर्ण स्वास्थ्य लाभको निम्ति प्रार्थना",
+      "requestTextEn": "My mother underwent surgery at Patan Hospital this week. Please pray for her strength, peaceful recovery, and wisdom for the doctors.",
+      "requestTextNe": "मेरी आमाको पाटन अस्पतालमा शल्यक्रिया सम्पन्न भएको छ। उहाँको शीघ्र स्वास्थ्य लाभ र परिवारमा परमेश्वरको शान्तिको निम्ति प्रार्थना गरिदिनुहुन अनुरोध गर्दछु।",
+      "visibility": "public",
+      "moderationStatus": "approved",
+      "prayerStatus": "active",
+      "prayedCount": 148,
+      "createdAtBs": "२०८३ कार्तिक १४",
+      "createdAtAd": "2026-10-31"
+    },
+    {
+      "id": 2,
+      "requesterName": "अनुग्रह युवा संगति (Grace Youth Fellowship)",
+      "location": "Dharan, Sunsari",
+      "category": "youth",
+      "titleEn": "Upcoming Koshi Province Youth Discipleship & Drug-Recovery Outreach",
+      "titleNe": "कोशी प्रदेश युवा चेलापन तथा दुर्व्यसनमुक्त अभियानको निम्ति प्रार्थना",
+      "requestTextEn": "We are visiting 14 colleges and rehabilitation centers in Sunsari and Morang to share hope and mentorship with struggling youth.",
+      "requestTextNe": "सुनसरी र मोरङका १४ वटा कलेज तथा सुधार गृहहरूमा युवाहरूका बीचमा आशा र परामर्श सेवा पुर्याउँदैछौँ, पवित्र आत्माको अगुवाइको निम्ति प्रार्थना गरिदिनुहोस्।",
+      "visibility": "public",
+      "moderationStatus": "approved",
+      "prayerStatus": "active",
+      "prayedCount": 215,
+      "createdAtBs": "२०८३ कार्तिक १२",
+      "createdAtAd": "2026-10-29"
+    },
+    {
+      "id": 3,
+      "requesterName": "एलिशा तामाङ (Elisha Tamang)",
+      "location": "Lalitpur",
+      "category": "thanksgiving",
+      "titleEn": "Thanksgiving: Safe Return of Brother from Overseas Employment",
+      "titleNe": "धन्यवादको गवाही: वैदेशिक रोजगारीबाट भाइको सकुशल फिर्ती",
+      "requestTextEn": "We asked the Susamachar prayer wall to pray when my brother was hospitalized abroad. God answered our prayers and he returned home healthy!",
+      "requestTextNe": "विदेशमा बिरामी परेका भाइको निम्ति सुसमाचार प्रार्थना पर्खालमा राखेको प्रार्थना परमेश्वरले सुन्नुभयो र भाइ सकुशल घर फर्कनुभएको छ। परमेश्वरलाई महिमा!",
+      "visibility": "public",
+      "moderationStatus": "approved",
+      "prayerStatus": "answered",
+      "prayedCount": 312,
+      "createdAtBs": "२०८३ कार्तिक ९",
+      "createdAtAd": "2026-10-26"
+    },
+    {
+      "id": 4,
+      "requesterName": "पा. यूहन्ना परियार (Pr. John Pariyar)",
+      "location": "Surkhet, Karnali",
+      "category": "church",
+      "titleEn": "Roof Construction for New Fellowship Hall in Surkhet",
+      "titleNe": "सुर्खेतको नयाँ संगति भवनको छाना निर्माणका निम्ति प्रार्थना",
+      "requestTextEn": "Our rural congregation of 85 families is building a safe prayer hall before winter. Pray for provision and safety of volunteer builders.",
+      "requestTextNe": "जाडोयाम सुरु हुनुअघि हाम्रो ग्रामीण मण्डलीको प्रार्थना भवन निर्माण कार्य पूरा हुन सकोस् भनी प्रार्थना गरिदिनुहुन अनुरोध छ।",
+      "visibility": "public",
+      "moderationStatus": "approved",
+      "prayerStatus": "active",
+      "prayedCount": 89,
+      "createdAtBs": "२०८३ कार्तिक १५",
+      "createdAtAd": "2026-10-31"
+    },
+    {
+      "id": 5,
+      "requesterName": "डेभिड गुरुङ (David Gurung)",
+      "location": "Butwal, Rupandehi",
+      "category": "guidance",
+      "titleEn": "Divine Guidance & Wisdom for Career and Mission Direction",
+      "titleNe": "उच्च शिक्षा र सेवाकाईको निर्णयमा ईश्वरीय मार्गदर्शन र बुद्धिको निम्ति",
+      "requestTextEn": "Seeking God’s wisdom and clear guidance regarding a transition into community ministry and higher theological studies.",
+      "requestTextNe": "जीवनको नयाँ मोडमा सेवाकाई र अध्ययनका लागि परमेश्वरको स्पष्ट अगुवाइ, बुद्धि र ढोका खुल्न सकोस् भनी प्रार्थना गरिदिनुहोस्।",
+      "visibility": "public",
+      "moderationStatus": "approved",
+      "prayerStatus": "active",
+      "prayedCount": 164,
+      "createdAtBs": "२०८३ कार्तिक १३",
+      "createdAtAd": "2026-10-30"
+    },
+    {
+      "id": 6,
+      "requesterName": "गोप्य विश्वासी (Confidential Believer)",
+      "location": "Kathmandu",
+      "category": "family",
+      "titleEn": "Family Reconciliation, Healing and Peace at Home",
+      "titleNe": "पारिवारिक सम्बन्धमा मेलमिलाप, चङ्गाइ र शान्तिको निम्ति गोप्य प्रार्थना",
+      "requestTextEn": "Confidential intercession requested for healing strained family relationships and restoring peace in our household.",
+      "requestTextNe": "परिवारमा मेलमिलाप, समझदारी र परमेश्वरको शान्ति पुनर्स्थापनाका लागि पास्टोरल प्रार्थना टोलीको मध्यस्थताको खाँचो छ।",
+      "visibility": "private",
+      "moderationStatus": "approved",
+      "prayerStatus": "active",
+      "prayedCount": 76,
+      "createdAtBs": "२०८३ कार्तिक ११",
+      "createdAtAd": "2026-10-28"
+    },
+    {
+      "id": 7,
+      "requesterName": "गोप्य प्रार्थना (Private Pastoral Request)",
+      "location": "Biratnagar, Morang",
+      "category": "guidance",
+      "titleEn": "Guidance and Protection During Difficult Business Transition",
+      "titleNe": "व्यवसायिक समस्या र कठिन परिस्थितिमा ईश्वरीय सुरक्षा र अगुवाइ",
+      "requestTextEn": "Seeking confidential prayer for ethical guidance and divine breakthrough during a critical business struggle.",
+      "requestTextNe": "कठिन व्यवसायिक घडीमा सहि निर्णय र परमेश्वरको अनुग्रह प्राप्त हुन सकोस् भनी गोप्य प्रार्थनाको अनुरोध।",
+      "visibility": "private",
+      "moderationStatus": "approved",
+      "prayerStatus": "active",
+      "prayedCount": 42,
+      "createdAtBs": "२०८३ कार्तिक ८",
+      "createdAtAd": "2026-10-25"
+    }
+  ],
+  "radioStations": [
+    {
+      "id": 1,
+      "nameEn": "Good News FM 105.1 MHz (Live Stream)",
+      "nameNe": "गुड न्युज एफ.एम. १०५.१ मेगाहर्ज (प्रत्यक्ष)",
+      "frequency": "105.1 MHz",
+      "locationEn": "Lalitpur, Kathmandu Valley",
+      "locationNe": "ललितपुर, काठमाडौं उपत्यका",
+      "streamUrl": "https://stream.zeno.fm/f3wvbbqmdg8uv",
+      "melodyPreset": "hymn_grace",
+      "descriptionEn": "24-hour bilingual Nepali Christian broadcast featuring morning devotionals, Nepali bhajans, family counseling, and live Bible teaching.",
+      "descriptionNe": "बिहानी प्रार्थना, नेपाली ख्रीष्टियन भजन, पारिवारिक परामर्श र प्रत्यक्ष बाइबल शिक्षा प्रसारण गर्ने २४ घण्टे रेडियो स्टेशन।",
+      "currentProgramEn": "Morning Grace & Nepali Bhajan Aradhana",
+      "currentProgramNe": "बिहानी अनुग्रह र नेपाली भजन आराधना",
+      "isEnabled": true
+    },
+    {
+      "id": 2,
+      "nameEn": "Grace Worship Radio 107.6 MHz",
+      "nameNe": "अनुग्रह आराधना एफ.एम. १०७.६ पोखरा",
+      "frequency": "107.6 MHz",
+      "locationEn": "Pokhara, Gandaki Province",
+      "locationNe": "पोखरा, गण्डकी प्रदेश",
+      "streamUrl": "https://ice1.somafm.com/dronezone-128-mp3",
+      "melodyPreset": "worship_peace",
+      "descriptionEn": "Broadcasting uplifting Gospel songs, peaceful instrumental worship, youth fellowship programs, and Scripture meditation.",
+      "descriptionNe": "गण्डकी प्रदेशभर सुसमाचारमूलक संगीत, शान्त आराधना धुन र पवित्र धर्मशास्त्र मनन प्रसारण गर्ने रेडियो।",
+      "currentProgramEn": "Psalms of Peace Instrumental & Scripture Reading",
+      "currentProgramNe": "शान्तिको भजन र पवित्र धर्मशास्त्र वाचन",
+      "isEnabled": true
+    },
+    {
+      "id": 3,
+      "nameEn": "Himali Christian Voice 98.4 MHz",
+      "nameNe": "हिमाली इसाई आवाज ९८.४ धरान",
+      "frequency": "98.4 MHz",
+      "locationEn": "Dharan, Koshi Province",
+      "locationNe": "धरान, कोशी प्रदेश",
+      "streamUrl": "https://ice2.somafm.com/Lush-128-mp3",
+      "melodyPreset": "morning_psalm",
+      "descriptionEn": "Eastern Nepal Christian community radio featuring Nepali worship hymns and evening prayer altar.",
+      "descriptionNe": "पूर्वी नेपालका मण्डली र समुदायका लागि नेपाली आत्मिक भजन र सन्ध्याकालीन प्रार्थना प्रसारण।",
+      "currentProgramEn": "Evening Family Prayer Altar (पारिवारिक प्रार्थना वेदी)",
+      "currentProgramNe": "सन्ध्याकालीन पारिवारिक प्रार्थना वेदी",
+      "isEnabled": true
+    },
+    {
+      "id": 4,
+      "nameEn": "Jyoti Gospel Radio 92.8 MHz",
+      "nameNe": "ज्योति सुसमाचार रेडियो ९२.८ चितवन",
+      "frequency": "92.8 MHz",
+      "locationEn": "Bharatpur, Chitwan",
+      "locationNe": "भरतपुर, चितवन",
+      "streamUrl": "https://ice1.somafm.com/deepspaceone-128-mp3",
+      "melodyPreset": "himalayan_choral",
+      "descriptionEn": "Central Nepal Christian radio dedicated to verse-by-verse Bible study, children’s Sunday stories, and listener testimonies.",
+      "descriptionNe": "पद-पद बाइबल अध्ययन, बाल कथा र श्रोताहरूको गवाही प्रसारण गर्ने मध्य नेपालको लोकप्रिय रेडियो।",
+      "currentProgramEn": "Verse-by-Verse Book of Romans Study",
+      "currentProgramNe": "रोमीको पुस्तक पद-पद बाइबल अध्ययन",
+      "isEnabled": true
+    }
+  ],
+  "rates": {
+    "rateDateAd": "2026-10-31",
+    "rateDateBs": "२०८३ कार्तिक १४",
+    "lastUpdatedTime": "11:15 AM NPT (नेपाली समय)",
+    "fineGoldTola": 168400,
+    "tejabiGoldTola": 167700,
+    "silverTola": 2085,
+    "fineGoldGram": 14438,
+    "tejabiGoldGram": 14378,
+    "silverGram": 178.76,
+    "changeGoldTola": 600,
+    "changeSilverTola": 15,
+    "currency": "NPR",
+    "sourceNameEn": "FENEGOSIDA (Federation of Nepal Gold & Silver Dealers Association)",
+    "sourceNameNe": "नेपाल सुनचाँदी व्यवसायी महासंघ (FENEGOSIDA)",
+    "history": [
+      {
+        "dateBs": "२०८३ कार्तिक १४",
+        "dateAd": "2026-10-31",
+        "fineGoldTola": 168400,
+        "tejabiGoldTola": 167700,
+        "silverTola": 2085,
+        "changeGold": 600,
+        "changeSilver": 15
+      },
+      {
+        "dateBs": "२०८३ कार्तिक १३",
+        "dateAd": "2026-10-30",
+        "fineGoldTola": 167800,
+        "tejabiGoldTola": 167100,
+        "silverTola": 2070,
+        "changeGold": -400,
+        "changeSilver": -10
+      },
+      {
+        "dateBs": "२०८३ कार्तिक १२",
+        "dateAd": "2026-10-29",
+        "fineGoldTola": 168200,
+        "tejabiGoldTola": 167500,
+        "silverTola": 2080,
+        "changeGold": 800,
+        "changeSilver": 25
+      },
+      {
+        "dateBs": "२०८३ कार्तिक ११",
+        "dateAd": "2026-10-28",
+        "fineGoldTola": 167400,
+        "tejabiGoldTola": 166700,
+        "silverTola": 2055,
+        "changeGold": 300,
+        "changeSilver": 5
+      },
+      {
+        "dateBs": "२०८३ कार्तिक १०",
+        "dateAd": "2026-10-27",
+        "fineGoldTola": 167100,
+        "tejabiGoldTola": 166400,
+        "silverTola": 2050,
+        "changeGold": 0,
+        "changeSilver": -5
+      }
+    ]
+  },
+  "calendarEvents": [
+    {
+      "id": 1,
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 1,
+      "titleEn": "Nepali New Year 2083 & Thanksgiving Service",
+      "titleNe": "नयाँ वर्ष २०८३ तथा धन्यवाद प्रार्थना सभा",
+      "eventType": "national_holiday",
+      "isPublicHoliday": true
+    },
+    {
+      "id": 2,
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 5,
+      "titleEn": "Resurrection Sunday (Easter Celebration)",
+      "titleNe": "पुनरुत्थान आइतबार (इस्टर महोत्सव)",
+      "eventType": "christian_festival",
+      "isPublicHoliday": false
+    },
+    {
+      "id": 3,
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 10,
+      "titleEn": "Pentecost Sunday Prayer Gathering",
+      "titleNe": "पेन्तिकोस आइतबार विशेष प्रार्थना",
+      "eventType": "christian_festival",
+      "isPublicHoliday": false
+    },
+    {
+      "id": 4,
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 14,
+      "titleEn": "All Nepal Christian Youth & Choir Festival",
+      "titleNe": "अखिल नेपाल इसाई युवा तथा भजन महोत्सव",
+      "eventType": "church_event",
+      "isPublicHoliday": false
+    },
+    {
+      "id": 5,
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 22,
+      "titleEn": "National Bible Translation & Literacy Day",
+      "titleNe": "राष्ट्रिय बाइबल अनुवाद तथा साक्षरता दिवस",
+      "eventType": "church_event",
+      "isPublicHoliday": false
+    },
+    {
+      "id": 6,
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 10,
+      "titleEn": "Christmas Day (ख्रीष्टमस दिवस - Public Holiday)",
+      "titleNe": "ख्रीष्टमस दिवस (येशू ख्रीष्टको जन्मोत्सव - सार्वजनिक बिदा)",
+      "eventType": "christian_festival",
+      "isPublicHoliday": true
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "titleEn": "Blooming Rhododendron (Lali Gurans) & Majestic Himalayas",
+      "titleNe": "लालीगुराँस र सर्वोच्च हिमशृंखला — नेपालको प्राकृतिक सौन्दर्य",
+      "category": "worship",
+      "locationEn": "Karnali & Himalayan Panorama, Nepal",
+      "locationNe": "कर्णाली तथा हिमाली दृश्य, नेपाल",
+      "dateBs": "२०८३ कार्तिक १४",
+      "coverImage": "/assets/aistudio/image_fed91b50.png",
+      "photosCount": 18,
+      "descriptionEn": "National flower Rhododendron in full bloom against the snow-capped Himalayan peaks of Nepal — perfect background for Bible verse wallpapers.",
+      "descriptionNe": "राताम्मे फुलेको लालीगुराँस र सेताम्मे हिमशृंखलाको वास्तविक तस्बिर — बाइबल वचन वालपेपरका लागि उत्कृष्ट।",
+      "items": [
+        {
+          "id": 101,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_fed91b50.png",
+          "captionEn": "Blooming Lali Gurans overlooking the Himalayas",
+          "captionNe": "लालीगुराँस र हिमालको मनोरम दृश्य"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titleEn": "Turquoise Phoksundo Lake — Shey Phoksundo, Dolpa",
+      "titleNe": "फोक्सुण्डो ताल, डोल्पा — परमेश्वरको अद्भुत सृष्टि",
+      "category": "worship",
+      "locationEn": "Shey Phoksundo, Dolpa, Nepal",
+      "locationNe": "शे-फोक्सुण्डो, डोल्पा, नेपाल",
+      "dateBs": "२०८३ कार्तिक १३",
+      "coverImage": "/assets/aistudio/image_4e1a2ab5.png",
+      "photosCount": 24,
+      "descriptionEn": "Crystal-clear turquoise waters of Phoksundo Lake surrounded by dramatic Himalayan cliffs in Dolpa.",
+      "descriptionNe": "डोल्पा जिल्लामा अवस्थित नीलो र कञ्चन फोक्सुण्डो तालको वास्तविक दृश्य।",
+      "items": [
+        {
+          "id": 201,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_4e1a2ab5.png",
+          "captionEn": "Phoksundo Lake, Dolpa",
+          "captionNe": "फोक्सुण्डो ताल, डोल्पा"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titleEn": "Karnali River Valley & Green Terraced Hills of Nepal",
+      "titleNe": "कर्णाली नदी उपत्यका, हरियाली फाँट र हिमशिखर",
+      "category": "mission",
+      "locationEn": "Karnali Province, Nepal",
+      "locationNe": "कर्णाली प्रदेश, नेपाल",
+      "dateBs": "२०८३ कार्तिक १२",
+      "coverImage": "/assets/aistudio/image_d40a1d65.png",
+      "photosCount": 32,
+      "descriptionEn": "Serene blue river winding through lush terraced villages with snow peaks on the horizon.",
+      "descriptionNe": "कञ्चन नदीको बहाव, हरियाली पहाडी बस्ती र पृष्ठभूमिमा देखिएको हिमालको वास्तविक फोटो।",
+      "items": [
+        {
+          "id": 301,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_d40a1d65.png",
+          "captionEn": "Karnali River Valley",
+          "captionNe": "कर्णाली नदी र पहाडी बस्ती"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titleEn": "Alpine Wildflowers & Snow-Capped Himalayan Peaks",
+      "titleNe": "हिमाली फूलबारी र बादलमाथि चम्किएको हिमाल",
+      "category": "worship",
+      "locationEn": "High Himalayas, Nepal",
+      "locationNe": "उच्च हिमाली क्षेत्र, नेपाल",
+      "dateBs": "२०८३ कार्तिक ११",
+      "coverImage": "/assets/aistudio/image_05744a49.png",
+      "photosCount": 21,
+      "descriptionEn": "Vibrant mountain wildflowers blooming beneath towering snow-covered Himalayan summits.",
+      "descriptionNe": "रङ्गीचङ्गी हिमाली फूलहरू र निलो आकाशमुनि मुस्कुराएको हिमालको वास्तविक तस्बिर।",
+      "items": [
+        {
+          "id": 401,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_05744a49.png",
+          "captionEn": "Himalayan Wildflowers",
+          "captionNe": "हिमाली फूल र हिमशिखर"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titleEn": "Golden Sunset Over the Himalayan Range",
+      "titleNe": "गोधूलि साँझमा सुनौलो हिमाल र आकाशको दृश्य",
+      "category": "worship",
+      "locationEn": "Himalayan Range, Nepal",
+      "locationNe": "हिमाली शृंखला, नेपाल",
+      "dateBs": "२०८३ कार्तिक १०",
+      "coverImage": "/assets/aistudio/image_8235fd25.png",
+      "photosCount": 15,
+      "descriptionEn": "Golden sunset light illuminating the majestic Himalayan peaks at dusk.",
+      "descriptionNe": "सूर्यास्तको सुनौलो किरणले रंगिएको नेपालको हिमशृंखला।",
+      "items": [
+        {
+          "id": 501,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_8235fd25.png",
+          "captionEn": "Golden Sunset over the Himalayas",
+          "captionNe": "सूर्यास्तमा सुनौलो हिमाल"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "titleEn": "Upper Mustang & Dolpo Ancient Himalayan Village",
+      "titleNe": "उपल्लो मुस्ताङ र डोल्पोको मौलिक हिमाली बस्ती",
+      "category": "mission",
+      "locationEn": "Mustang / Dolpo, Nepal",
+      "locationNe": "मुस्ताङ / डोल्पो, नेपाल",
+      "dateBs": "२०८३ कार्तिक ९",
+      "coverImage": "/assets/aistudio/image_3fb48649.png",
+      "photosCount": 27,
+      "descriptionEn": "Traditional flat-roofed mud-brick homes surrounded by golden autumn harvest fields in trans-Himalayan Nepal.",
+      "descriptionNe": "सुनौला खेतबारीका बीचमा रहेको हिमालपारिको मौलिक नेपाली बस्ती।",
+      "items": [
+        {
+          "id": 601,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_3fb48649.png",
+          "captionEn": "Upper Mustang Village",
+          "captionNe": "हिमालपारिको मौलिक बस्ती"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "titleEn": "Himalayan Mountain Trail & Valley Settlement",
+      "titleNe": "हिमाली उपत्यका, पदमार्ग र पहाडी जनजीवन",
+      "category": "christian_camps",
+      "locationEn": "Mid-Western Hills, Nepal",
+      "locationNe": "मध्य-पश्चिम पहाडी क्षेत्र, नेपाल",
+      "dateBs": "२०८३ कार्तिक ८",
+      "coverImage": "/assets/aistudio/image_42266620.png",
+      "photosCount": 19,
+      "descriptionEn": "Scenic mountain trail winding above a peaceful Himalayan river valley and village.",
+      "descriptionNe": "पहाडी खोँच र हरियाली उपत्यकामा अवस्थित सुन्दर नेपाली गाउँ।",
+      "items": [
+        {
+          "id": 701,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_42266620.png",
+          "captionEn": "Mountain Valley Village",
+          "captionNe": "पहाडी उपत्यकाको बस्ती"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "titleEn": "White-Water River Rafting & Youth Fellowship in Nepal",
+      "titleNe": "नेपालको नदीमा साहसिक र्याफ्टिङ र युवा संगति",
+      "category": "christian_camps",
+      "locationEn": "Trishuli / Bhotekoshi River, Nepal",
+      "locationNe": "त्रिशूली / भोटेकोशी नदी, नेपाल",
+      "dateBs": "२०८३ कार्तिक ७",
+      "coverImage": "/assets/aistudio/image_2d66d8cd.png",
+      "photosCount": 29,
+      "descriptionEn": "Teamwork and joy on the rapids of Nepal’s famous Himalayan rivers.",
+      "descriptionNe": "नेपालको हिमाली नदीमा युवाहरूको उत्साहजनक जलयात्रा (र्याफ्टिङ)।",
+      "items": [
+        {
+          "id": 801,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_2d66d8cd.png",
+          "captionEn": "River Rafting in Nepal",
+          "captionNe": "नेपालको नदीमा र्याफ्टिङ"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "titleEn": "Winding Mountain Highway Journey Across Nepal",
+      "titleNe": "नेपालको पहाडी राजमार्ग र यात्राको वास्तविक दृश्य",
+      "category": "mission",
+      "locationEn": "Hill Highway, Nepal",
+      "locationNe": "पहाडी राजमार्ग, नेपाल",
+      "dateBs": "२०८३ कार्तिक ६",
+      "coverImage": "/assets/aistudio/image_124cf814.png",
+      "photosCount": 14,
+      "descriptionEn": "Buses traveling along a dramatic cliffside highway carved into the green mountains of Nepal.",
+      "descriptionNe": "हरिया पहाडको भीरमा कुँदिएको घुमाउरो नेपाली राजमार्गको यात्रा।",
+      "items": [
+        {
+          "id": 901,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_124cf814.png",
+          "captionEn": "Mountain Highway in Nepal",
+          "captionNe": "पहाडी राजमार्ग यात्रा"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "titleEn": "Holy Bible (पवित्र बाइबल NNRV) — Word of God",
+      "titleNe": "पवित्र बाइबल (NNRV) — जीवित परमेश्वरको वचन",
+      "category": "seminars",
+      "locationEn": "Bible Sandes (biblesandes.com)",
+      "locationNe": "बाइबल सन्देश (biblesandes.com)",
+      "dateBs": "२०८३ कार्तिक ५",
+      "coverImage": "/assets/aistudio/image_312e60b5.png",
+      "photosCount": 12,
+      "descriptionEn": "Sacred Holy Bible collection for daily scripture reading, study, and verse sharing.",
+      "descriptionNe": "दैनिक वचन पठन, मनन र बाइबल सन्देश सेयर गर्नका लागि पवित्र बाइबल तस्बिर संग्रह।",
+      "items": [
+        {
+          "id": 1001,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_312e60b5.png",
+          "captionEn": "Holy Bible",
+          "captionNe": "पवित्र बाइबल"
+        },
+        {
+          "id": 1002,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_34762c79.png",
+          "captionEn": "Pabitra Bible Icon",
+          "captionNe": "पवित्र बाइबल लोगो"
+        },
+        {
+          "id": 1003,
+          "mediaType": "image",
+          "mediaUrl": "/assets/aistudio/image_d6c7195f.png",
+          "captionEn": "Nepali Holy Bible NNRV",
+          "captionNe": "नेपाली पवित्र बाइबल NNRV"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "titleEn": "All-Nepal Christian Youth & Worship Conference 2083",
+      "titleNe": "अखिल नेपाल इसाई युवा तथा आराधना सम्मेलन २०८३",
+      "category": "conference",
+      "dateBs": "२०८३ मंसिर १२–१४",
+      "dateAd": "2026-11-28",
+      "time": "9:00 AM – 5:00 PM",
+      "locationEn": "Kathmandu Valley, Nepal",
+      "locationNe": "काठमाडौँ उपत्यका, नेपाल",
+      "organizerEn": "Bible Sandes Network (biblesandes.com)",
+      "organizerNe": "बाइबल सन्देश संजाल (biblesandes.com)",
+      "descriptionEn": "Three-day national conference featuring expository Bible teaching, indigenous Nepali worship, career mentorship, and mission workshops.",
+      "descriptionNe": "बाइबल व्याख्या, मौलिक नेपाली आराधना, वृत्ति परामर्श र सेवा कार्यशालासहितको तीनदिने राष्ट्रिय युवा सम्मेलन।",
+      "bannerImage": "/assets/aistudio/image_fed91b50.png",
+      "registrationCount": 418
+    },
+    {
+      "id": 2,
+      "titleEn": "Gandaki Regional Pastors & Elders Expository Bible Seminar",
+      "titleNe": "गण्डकी प्रादेशिक पास्टर तथा अगुवा बाइबल व्याख्या सेमिनार",
+      "category": "seminar",
+      "dateBs": "२०८३ मंसिर २२",
+      "dateAd": "2026-12-08",
+      "time": "10:00 AM – 4:00 PM",
+      "locationEn": "Pokhara, Gandaki Province",
+      "locationNe": "पोखरा, गण्डकी प्रदेश",
+      "organizerEn": "Bible Sandes Teaching Fellowship",
+      "organizerNe": "बाइबल सन्देश शिक्षा संगति",
+      "descriptionEn": "Intensive training on hermeneutics, pastoral care, and family counseling for local church leaders.",
+      "descriptionNe": "स्थानीय मण्डलीका पास्टर र अगुवाहरूका लागि बाइबल अर्थशास्त्र र पारिवारिक परामर्शसम्बन्धी विशेष सेमिनार।",
+      "bannerImage": "/assets/aistudio/image_312e60b5.png",
+      "registrationCount": 164
+    },
+    {
+      "id": 3,
+      "titleEn": "Christmas Carol & Community Blanket Distribution Drive",
+      "titleNe": "ख्रीष्टमस क्यारोल तथा न्यानो कपडा वितरण अभियान",
+      "category": "festival",
+      "dateBs": "२०८३ पुष १० (Dec 25)",
+      "dateAd": "2026-12-25",
+      "time": "8:00 AM – 6:00 PM",
+      "locationEn": "Nationwide across 7 Provinces",
+      "locationNe": "सातै प्रदेशका स्थानीय मण्डलीहरू",
+      "organizerEn": "Bible Sandes Compassion Ministry",
+      "organizerNe": "बाइबल सन्देश करुणा सेवा",
+      "descriptionEn": "Celebrating the birth of Jesus Christ by sharing Christmas joy, carols, and warm winter blankets with elderly and low-income families.",
+      "descriptionNe": "प्रभु येशू ख्रीष्टको जन्मोत्सवको अवसरमा असहाय र ज्येष्ठ नागरिकहरूलाई न्यानो कपडा वितरण तथा ख्रीष्टमस शुभकामना आदानप्रदान।",
+      "bannerImage": "/assets/aistudio/image_d40a1d65.png",
+      "registrationCount": 890
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "username": "superadmin",
+      "fullNameEn": "Rev. Dr. Prakash Shrestha",
+      "fullNameNe": "रेभ. डा. प्रकाश श्रेष्ठ",
+      "email": "superadmin@susamachar.org",
+      "roleKey": "SUPER_ADMIN",
+      "roleNameEn": "Super Admin",
+      "roleNameNe": "सुपर एडमिन (पूर्ण अधिकार)",
+      "status": "active",
+      "twoFactorEnabled": true,
+      "lastLogin": "2026-10-31 10:45 AM",
+      "allowedModules": [
+        "overview",
+        "news",
+        "bible",
+        "prayer",
+        "calendar",
+        "radio",
+        "rates",
+        "gallery",
+        "events",
+        "admins",
+        "audit"
+      ]
+    },
+    {
+      "id": 2,
+      "username": "newsadmin",
+      "fullNameEn": "Pr. Samuel Adhikari",
+      "fullNameNe": "पा. शमूएल अधिकारी",
+      "email": "news@susamachar.org",
+      "roleKey": "NEWS_ADMIN",
+      "roleNameEn": "News Admin",
+      "roleNameNe": "समाचार एडमिन",
+      "status": "active",
+      "twoFactorEnabled": true,
+      "lastLogin": "2026-10-31 09:20 AM",
+      "allowedModules": [
+        "overview",
+        "news"
+      ]
+    },
+    {
+      "id": 3,
+      "username": "bibleadmin",
+      "fullNameEn": "Hannah Gurung",
+      "fullNameNe": "हन्ना गुरुङ",
+      "email": "bible@susamachar.org",
+      "roleKey": "BIBLE_ADMIN",
+      "roleNameEn": "Bible Admin",
+      "roleNameNe": "बाइबल एडमिन",
+      "status": "active",
+      "twoFactorEnabled": true,
+      "lastLogin": "2026-10-30 04:15 PM",
+      "allowedModules": [
+        "overview",
+        "bible"
+      ]
+    },
+    {
+      "id": 4,
+      "username": "radioadmin",
+      "fullNameEn": "Kiran Lepcha",
+      "fullNameNe": "किरण लेप्चा",
+      "email": "radio@susamachar.org",
+      "roleKey": "RADIO_ADMIN",
+      "roleNameEn": "Radio Admin",
+      "roleNameNe": "रेडियो एडमिन",
+      "status": "active",
+      "twoFactorEnabled": false,
+      "lastLogin": "2026-10-30 08:00 PM",
+      "allowedModules": [
+        "overview",
+        "radio"
+      ]
+    },
+    {
+      "id": 5,
+      "username": "calendaradmin",
+      "fullNameEn": "Bishवास कार्की (Bishwas Karki)",
+      "fullNameNe": "विश्वास कार्की",
+      "email": "calendar@susamachar.org",
+      "roleKey": "CALENDAR_ADMIN",
+      "roleNameEn": "Calendar Admin",
+      "roleNameNe": "पात्रो एडमिन",
+      "status": "active",
+      "twoFactorEnabled": false,
+      "lastLogin": "2026-10-29 11:30 AM",
+      "allowedModules": [
+        "overview",
+        "calendar",
+        "events"
+      ]
+    },
+    {
+      "id": 6,
+      "username": "financeadmin",
+      "fullNameEn": "Ashish Shakya",
+      "fullNameNe": "आशिष शाक्य",
+      "email": "rates@susamachar.org",
+      "roleKey": "FINANCE_ADMIN",
+      "roleNameEn": "Finance Content Admin",
+      "roleNameNe": "सुनचाँदी दर एडमिन",
+      "status": "active",
+      "twoFactorEnabled": true,
+      "lastLogin": "2026-10-31 11:15 AM",
+      "allowedModules": [
+        "overview",
+        "rates"
+      ]
+    },
+    {
+      "id": 7,
+      "username": "galleryadmin",
+      "fullNameEn": "Daniel Rai",
+      "fullNameNe": "दानियल राई",
+      "email": "gallery@susamachar.org",
+      "roleKey": "GALLERY_ADMIN",
+      "roleNameEn": "Gallery Admin",
+      "roleNameNe": "ग्यालरी एडमिन",
+      "status": "active",
+      "twoFactorEnabled": false,
+      "lastLogin": "2026-10-28 03:40 PM",
+      "allowedModules": [
+        "overview",
+        "gallery"
+      ]
+    },
+    {
+      "id": 8,
+      "username": "prayeradmin",
+      "fullNameEn": "Estha Tamang",
+      "fullNameNe": "एस्तर तामाङ",
+      "email": "prayer@susamachar.org",
+      "roleKey": "PRAYER_ADMIN",
+      "roleNameEn": "Prayer Admin",
+      "roleNameNe": "प्रार्थना एडमिन",
+      "status": "active",
+      "twoFactorEnabled": true,
+      "lastLogin": "2026-10-31 07:50 AM",
+      "allowedModules": [
+        "overview",
+        "prayer"
+      ]
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": 1,
+      "adminName": "Ashish Shakya",
+      "roleName": "Finance Content Admin",
+      "action": "UPDATE_RATES",
+      "module": "Gold & Silver",
+      "details": "Updated daily Fine Gold rate to NPR 168,400/tola and Silver to NPR 2,085/tola (FENEGOSIDA)",
+      "timestamp": "2026-10-31 11:15 AM",
+      "ipAddress": "202.45.144.18"
+    },
+    {
+      "id": 2,
+      "adminName": "Pr. Samuel Adhikari",
+      "roleName": "News Admin",
+      "action": "PUBLISH_NEWS",
+      "module": "News Portal",
+      "details": "Published article: National Inter-Church Prayer & Unity Fellowship Convenes in Kathmandu Valley",
+      "timestamp": "2026-10-30 06:40 PM",
+      "ipAddress": "110.44.120.92"
+    },
+    {
+      "id": 3,
+      "adminName": "Estha Tamang",
+      "roleName": "Prayer Admin",
+      "action": "APPROVE_PRAYER",
+      "module": "Prayer Wall",
+      "details": "Approved public prayer request #1 (Complete Recovery After Kidney Surgery)",
+      "timestamp": "2026-10-30 02:12 PM",
+      "ipAddress": "27.34.68.104"
+    },
+    {
+      "id": 4,
+      "adminName": "Rev. Dr. Prakash Shrestha",
+      "roleName": "Super Admin",
+      "action": "VERIFY_RBAC_POLICY",
+      "module": "Security & Roles",
+      "details": "Verified 2FA enforcement for Super Admin, News Admin, Bible Admin, Finance Admin, and Prayer Admin",
+      "timestamp": "2026-10-29 09:00 AM",
+      "ipAddress": "202.45.144.10"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "आशिष गुरुङ (Ashish Gurung)",
+      "email": "member@susamachar.org",
+      "salt": "susamachar_salt_2083",
+      "passwordHash": "82fadb7d5262d9614279de0777acd053c2edfcd11ac0090736f5f29775890532c25a9c8558836060217ec918c556b09d431881de54b2522ba6f028acc4d98300",
+      "preferredLanguage": "ne",
+      "churchName": "Patan Koinonia Church",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": 2,
+      "fullName": "Ratna sunuwar",
+      "email": "rtnsnwr@gmail.com",
+      "salt": "33881bde1147dc5004e85e3c35a19434",
+      "passwordHash": "08f73197b44e579a8298050c7e0a818d071dc7d0c49a19bc26064d0e604019f5314057e25144d34469127b6f5108e71dc0afc17a13c7c4c37fae65c6ebdcd567",
+      "preferredLanguage": "ne",
+      "churchName": "dts",
+      "createdAt": "2026-11-01"
+    }
+  ]
+}

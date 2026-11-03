@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#991B1B" />
+      <stop offset="55%" stop-color="#7F1D1D" />
+      <stop offset="100%" stop-color="#1E3A8A" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="120" y1="80" x2="392" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FDE68A" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#B45309" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+  <circle cx="256" cy="256" r="196" stroke="url(#goldGrad)" stroke-width="6" stroke-opacity="0.45" />
+  <!-- Himalayan silhouette at base -->
+  <path d="M96 364L168 302L222 344L286 278L354 334L416 364H96Z" fill="#1E3A8A" fill-opacity="0.55" />
+  <!-- Open Bible Book at base -->
+  <path d="M132 348C172 332 216 336 256 356C296 336 340 332 380 348V392C340 376 296 380 256 400C216 380 172 376 132 392V348Z" fill="url(#goldGrad)" />
+  <!-- Radiant Christian Cross -->
+  <rect x="238" y="104" width="36" height="236" rx="10" fill="url(#goldGrad)" />
+  <rect x="166" y="168" width="180" height="36" rx="10" fill="url(#goldGrad)" />
+</svg>
